@@ -15,5 +15,7 @@
 <p>ภาษาอังกฤษ :Bachelor of Science (Data Science)</p>
 
 <a href="https://www.cp.su.ac.th/curricula/Bachelor-of-Science-Program-in-Data-Science">รายละเอียดหลักสูตร วิทยาการข้อมูล</a>
+<img src="https://3.bp.blogspot.com/-FQj5PWFIMQE/XDhMdzZxoyI/AAAAAAAA0cg/TOYilICmo9wbE0SUihHlQU1Q5LXIOqGkgCLcBGAs/s1600/cutetoon%2B%25286%2529.jpeg" width="500" height="600">
+
   </body>
 <html>
